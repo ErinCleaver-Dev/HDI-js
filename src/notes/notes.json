@@ -1,0 +1,976 @@
+{ "Notes" : 
+  [ 
+    { "UNIT 1: Leadership" : [
+        {
+          "id" : 1.1,
+          "title" : "Leadership Principles",
+          "section" : [
+            {
+              "id" : "1.1.1",
+              "title" : "Identify the characteristics of an effective leader.",
+              "subsection" : "An effective leader: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Leads by example"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Motivates others"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Encourage participation, creatvie thinking, and initiative"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Demonstrates a postive attitude"
+                },
+                {
+                  "id" : 5,
+                  "point" : " Practice active listening skills"
+                },
+                {
+                  "id" : 6,
+                  "point" : "Display ethical behavior"
+                }
+              ]
+            },
+            {
+              "id" : "1.1.2",
+              "title" : "Identify ways to exhibit personal accountability",
+              "subsection" : "Ways to exhibit personal accountability include: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Taking ownership of incidents or requests"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Admitting to errors"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Adhering to a work schedule"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Knowning your responsiblities and fulfilling them"
+                },
+                {
+                  "id" : 5,
+                  "point" : "Meeting personal and buisness commitments"
+                },
+                {
+                  "id" : 6,
+                  "point" : "Adhering to organization policies and procedures"
+                },
+                {
+                  "id" : 7,
+                  "point" : "Representing the organization positively outside the regular work environment"
+                }
+              ]
+            },
+            {
+              "id" : "1.1.3", 
+              "title" : "Identify sucess factors to best manage your work life",
+              "subsection" : "Sucess factors to manage your work life include",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Meet commitments with every assignment or meeting"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Approach your manager with solutions, not problems"
+                }, 
+                {
+                  "id" : 3,
+                  "point" : "Be open minded--you may not understand why a speific managerial decision is made"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Practice your creative and critical thinking skills"
+                },
+                {
+                  "id" : 5,
+                  "point" : "Acknowledge those around you for their positive contributions"
+                },
+                {
+                  "id" : 6,
+                  "point" : "Identify ways to assist your team and build trust"
+                }
+              ]
+            },
+            {
+            }
+          ]
+        },
+        {
+          "id" : 1.2,
+          "title" : "Business Ethics",
+          "section" : [
+            {
+              "id" : "1.2.1",
+              "title" : "Define ethics in business",
+              "subsection" : "Ethics in business refers to abiding by principles and codes that guides how members of an organization are expected to behave.  Ethics include integrity, which is the honesty of one's action, and aligning one's value with the values of the organization.",
+              "list" : []
+            },
+            {
+              "id" : "1.2.2",
+              "title" : "Describe ethical behavior in a support center.",
+              "subsection" : "An ethical support center environment is characterized by analysts who: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "title" : "Provide consistent service to all cusotmers"
+                },
+                {
+                  "id" : 2,
+                  "title" : "Demonstrate integrity in their actions and daily practices"
+                },
+                {
+                  "id" : 3,
+                  "title" : "Take ownership and hold themselves personally accountable for their actions"
+                },
+                {
+                  "id" : 4,
+                  "title" : "Fulfill commitments"
+                },
+                {
+                  "id" : 5,
+                  "title" : "Protect and enhance the image of the support center"
+                },
+                {
+                  "id" : 6,
+                  "title" : "Are loyal to the company, support organization, and team"
+                }
+              ]
+            },
+            {
+              "id" : "1.2.3",
+              "title" : "Describe how an analyst should be ethical.",
+              "subsection" : "An analyst should be ethical by: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "title" : "Complying with the company code of conduct"
+                },
+                {
+                  "id" : 2,
+                  "title" : "Reporting unethical and unauthorized use of company equipment as outlined in the standard operating procedures"
+                },
+                {
+                  "id" : 3,
+                  "title" : "Treating all stakeholders with respect, dignity, and being courtesy"
+                },
+                {
+                  "id" : 4,
+                  "title" : "Conveying accurate and truthful information"
+                },
+                {
+                  "id" : 5,
+                  "title" : "Providing the same level of quality and service to all users in order to remain fair and consistent"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id" : 1.3,
+          "title" : "Role of the Support Center Analyst",
+          "section" : [
+            {
+              "id" : "1.3.1",
+              "title" : "Describe the role of support center analyst in the organization",
+              "subsection" : "A frontline support center analyst assumes three main roles",
+              "list" : [
+                {
+                  "id" : 1,
+                  "title" : "<strong>An Expert</strong>--a person with a high degree of business and/or techinical knowledge, skills, or experience. An expert is able to respond to the business issue with the appropriate sence of urgency."
+                },
+                {
+                  "id" : 2,
+                  "title" : "<strong>A Customer Champion</strong>--a person who advocates for the customer and their needs.  A cusotmer champion and their needs.  A customer champion represents the cusotmer and focuses on achieving business goals and objectives."
+                },
+                {
+                  "id" : 2,
+                  "title" : "<strong>An Expeditor</strong>--a person who executes quickly and effectivey. If unable to resolve an issue, an expeditor will escalate the issue to the approprate resource who can resolve the issue, and continue to follow up in a timely manner to ensure the issue has been resolved to the customer's satisfaction."
+                }
+              ]
+            },
+            {
+              "id" : "1.3.2",
+              "title" : "Identify the top skills most commonly required of a support professional",
+              "subsection" : "The top skills nist cinnibkt reqyured if a support professional include: ",
+              "list" : [
+                {
+                  "id" : 1, 
+                  "point" : "Customer service"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Communication skills"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Ability to learn quickly"
+                },
+                {
+                  "id" : 4, 
+                  "point" : "Troubleshooting/problem-solving skills"
+                },
+                {
+                  "id" : 5,
+                  "point" : "Ability to work under pressure"
+                }
+                {
+                  "id" : 6,
+                  "point" : "Adaptablity"
+                },
+                {
+                  "id" : 7,
+                  "point" : "Interpersonal Skills"
+                },
+                {
+                  "id" : 8,
+                  "point" : "Teamwork Skills"
+                },
+                {
+                  "id" : 9,
+                  "point" : "Self-motivated, independent worker"
+                },
+                {
+                  "id" : 10,
+                  "point" : "Support experience"
+                }
+              ]
+            },
+            {
+              "id" : "1.3.3",
+              "title" : "Describe the primary responsibilities of a support center analyst in the support orgnanization",
+              "subsection" : "The responsibilities of a support center analyst include",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : " Providing high quality customer care on every interaction"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Receiving and resolving the initial customer request or incident"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Adhering to policy and standard operating procedures"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Maintaining product knowledge on a new and existing products and services"
+                },
+                {
+                  "id" : 5,
+                  "point" : "Educating the customer and enhancing the customer experience"
+                },
+                {
+                  "id" : 6,
+                  "point" : "Providing accurate information and solutions to customers"
+                },
+                {
+                  "id" : 7,
+                  "point" : "Staying informed about the changing needs of the business"
+                }
+              ]
+            },
+            {
+              "id" : "1.3.4",
+              "title" : "Identify how a support center analyst can deliver consistent quaility customer service.",
+              "subsection" : "A support center analyst delivers consistent, quality customer service by: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : " Responding to customer issues in a timley manner"
+                }, 
+                {
+                  "id" : 2,
+                  "point" : "Understanding and documenting customer needs"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Taking ownership of customer inidents."
+                },
+                {
+                  "id" : 4,
+                  "point" : "Making specific commitments, then consistently meeting or exceeding those commitments, while remaining faithful to organizational policies"
+                },
+                {
+                  "id" : 5,
+                  "point" :  "Resolving or assisting in the resolution of incidents within estblished service levels."
+                },
+                {
+                  "id" : 6,
+                  "point" : "Promoting the value of the support"
+                }
+              ]
+            },
+            {
+              "id" : "1.3.5",
+              "title" : "Explain how a support center analyst demonstrates value to the organization",
+              "subsection" : "A support center analyst demonstrates value to the organization by: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Performing their role in a consistent quality manner, thus helping the business to achieve its vision and mission"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Keeping their cusotmers informed, thus promoting the service offerings to meet the needs of the customers"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Promoting and educating customers on teh services that are available, thus increasing the utilization of those services"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Managing customer expectations and following up, thus increasing visibility to the service and support center which may result in an icrease in customer statification and leads to customer lolalty"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id" : "1.4.A",
+          "title" : "Personal Success Factors -- Emotional Intelligence ",
+          "section" : [
+            {
+              "id" : "1.4.1",
+              "title" : "Define Emotional Intelligence (EI)",
+              "subsection" : "Emotional Intelligence (EI) is",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "It is important to understand a customer's emotional need as well as their business need"
+                },
+                {
+                  "id" : 2,
+                  "point" : "It makes one more aware their own reactions and how it impacts the quality of the relationship between them and customers, peers, and management"
+                },
+                {
+                  "id" : 3,
+                  "point" : "It is important to understand how people work and become skilled in creating relationships"
+                }
+              ]
+            },
+            {
+              "id" : "1.4.2",
+              "title" : "Explain why Emotional Intelligence is important to the role of a support center analyst",
+              "subsection" : "Emotional is important to the role of a support center analyst because :",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "It is important to understand a customer's emotional need as weell as their business need"
+                },
+                {
+                  "id" : 2,
+                  "point" : "It makes one more aware of their own reactions and how it impacts the quality of the relationship between them and customers, peers, and management"
+                },
+                {
+                  "id" : 3,
+                  "point" : "It is important to understand how people work and become skilled in creating relationships"
+                }
+              ]
+            },
+            {
+              "id" : "1.4.3",
+              "title" : "List the three major components of Emotional Intelligence",
+              "subsection" : "The three major components of Emotional Intelligence are: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Self-Awareness"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Emotional Management"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Emotional Connection"
+                }
+              ]
+            },
+            {
+              "id" : "1.4.4",
+              "title" : "Describe Self Awareness",
+              "subsection" : "Self-Awereness helps to provide a framework grow upon.  This involes self-assessment of oneself, having self-regard, and being optimistic.",
+              "list" : []
+            },
+            {
+              "id" : "1.4.5",
+              "title" : "Describe Emotional Management",
+              "subsection" : "Emotional Management involves impulse control of one's emotions and controlling one's reponses.  Emotional management involves being adaptable and flexible, having personal drive, and being authentic",
+              "list" : []
+            },
+            {
+              "id" : "1.4.6",
+              "title" : "Describe Emotional Connection",
+              "subsection" : "Emotional Connection involes relationship building through empathetic listening and communication.",
+              "list" : []
+            },
+            {
+              "id" : "1.4.7",
+              "title" : "Describe an emotional hijack",
+              "subsection" : "An emotional hijack is a perceived threat, whether it is real or not, from a situation or person.  The limbic brain \"hijacks\" the executive function and thinking brain.  It is sudden, can be ferocious and takes you where you were not planning to go.  An emotional hijack happens: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Their is a change in the chemistry of the brain that dose not allow one to think rationally and clearly, which can last for up to 18 mintues.  Tehir are different stages that can cause the brain to go completely blank and revert to fight, flight, or freeze."
+                },
+                {
+                  "id" : 2,
+                  "point" : "The body and brain are flooded with arenaline and cortisol (known as the allostatic load) which can cause one to be over sensitive and/or tired very quickly."
+                }
+              ]
+            },
+            {
+              "id" : "1.4.8",
+              "title" : "Explain the impact of an emotional hijack on self and others",
+              "subsection" : "The impact of an emotional hijack can leave a person: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Saying things that may be hurtful without thinking about the consequences"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Not able to respond to a situation verbally or physicall"
+                },
+                {
+                  "id" : 4,
+                  "point" : "full of natural chemicals that are harmful for the health of the body and brain"
+                }
+              ]
+            },
+            {
+              "id" : "1.4.9",
+              "title" : "Describe how to manage another's emotional hijack",
+              "subsection" : "To manage another's emotioanl hijack: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Make sure the person individual knows you are on their side to help and/or resolve the issue"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Be attentive to the underlying emotion in the conversation through either the vocal elements used or the tone of the written word choice"
+                },
+                {
+                  "id" : 3,
+                  "point" : "When faces to face, be aware of the person's body language; keep the door open; and, if appropriate, come back later"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Align yourself with the person/individual by identifying and stating their felt emotion with sincerity"
+                },
+                {
+                  "id" : 5,
+                  "point" : "Create an enviorment of help by using words like \"we\" and \"us\""
+                },
+                {
+                  "id" : 6,
+                  "point" : "Understanding that the person individual is frustrated or angry, feeling pressure to compelete tehir task, and may take that frustration out on you.  Therefore, be pleasant and understanding"
+                }
+              ]
+            },
+            {
+              "id" : "1.4.10",
+              "title" : "identify signs of an emotional hijack",
+              "subsection" : "Signs of an emotional Hijack include: ",
+              "list" : [
+                {
+                  "id" : 1, 
+                  "point" : "Vocal tones becoming very loud"
+                },
+                {
+                  "id" : 2,
+                  "point" : "A change in the person's body language"
+                },
+                {
+                  "id" : 3,
+                  "point" : "The person becoming withdrawn, giving little or no feedback"
+                },
+                {
+                  "id" : 4,
+                  "point" : "The use of negative words or phrases"
+                }
+              ]
+            },
+            {
+              "id" : "1.4.11",
+              "title" : "Describe how to personally recover after emotional hijack",
+              "subsection" : "Strategies to personally recover after an emotional hijack include: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Remove yourself immediatley from the situation"
+                }, 
+                {
+                  "id" : 2,
+                  "point" : "Take a walk and breathe deeply"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Find a mentor or friend away from the situation to talk to"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Get something to drink or eat"
+                },
+                {
+                  "id" : 5,
+                  "point" : "Count to ten"
+                }
+              ]
+            },
+            {
+              "id" : "1.4.12",
+              "title" : "Define switch-tasking",
+              "subsection" : "Switch-tasking is the tendency to switch between tasks before one is completed.",
+              "list" : []
+            },
+            {
+              "id" : "1.4.13",
+              "title" : "Define distraction management",
+              "subsection" : "Distraction management is being aware of one's discrations throughout the day that deter a person from accomplishing his/her tasks, plans, goals, or objectives.  Once distractions and its effects have been identified, inteninaol measures need to be put in place to decrease the amount of or impact of the distraction.",
+              "list" : []
+            },
+            {
+              "id" : "1.4.14",
+              "title" : "Identify strategies to manage distractions",
+              "subsection" : "Strategies to manage distractions include: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Paying attention to and making note of the number, frequency, type, and time of day interruptions server as distrations, (i.e., e-mail, instant messages, etc)"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Identify what needs to be controlled and restrained and devise a plan of action to manage distractions"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Talking to your manager about what approriate actions to take to limit distractions"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Focusing clearly on one task at a time for as long as possible while limiting those distractions"
+                },
+                {
+                  "id" : 5,
+                  "point" : "Putting into practice borders and boundaries that will help you succeed at concentrating on projects and activities"
+                }
+              ]
+
+            },
+            {
+              "id" : "1.4.15",
+              "title" : "define effective time management",
+              "subsection" : "Effective time managemnt is the act of prioritizing the tasks and limiting distractions in order to maximize the return on personal efficiency and productivity",
+              "list" : []
+            },
+            {
+              "id" : "1.4.16",
+              "title" : " Describe the benefits of the effective time management",
+              "subsection" : "Beneifts of effective time management include: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Improved productivity for all parties involed"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Improved customer relations"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Reduced Stress"
+                }
+              ]
+            },
+            {
+              "id" : "1.4.17",
+              "title" : "Explain how to manage the use of your time efficiently",
+              "subsection" : "Techniques to improve and manage the use of your time include: ",
+              "list" : [
+                {
+                  "id" : 1, 
+                  "point" : "Follow standard operating procedures when performing routine tasks"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Use a time management tool or daily \"to-do\" list"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Confirm priorities with your manager, make them aware when competing priorities arise"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Prioritize incidents based on documented business impact and urgency"
+                },
+                {
+                  "id" : 5,
+                  "point" : "Plan projects and activities in advance, if possible"
+                },
+                {
+                  "id" : 6,
+                  "point" : "Prioritize projects and taks in order of importance"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id" : "1.4.B",
+          "title" : "Personal Success Factors -- Personal Account-ability",
+          "section" : [
+            {
+              "id" : "1.4.18",
+              "title" : "Identifiy ways to be accountable for your own development",
+              "subsection" : "To take accountability for your own development",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : " Understand your strengths, weaknesses, opportunities, threats, and core values."
+                },
+                {
+                  "id" : 2,
+                  "point" : "Get feedback from leadership on your performance"
+                }, 
+                {
+                  "id" : 3,
+                  "point" : "Create an action plan with the feedback"
+                },
+                {
+                  "id" : 4,
+                  "point" : "From your career path for the future"
+                }
+              ]
+            },
+            {
+              "id" : "1.4.19",
+              "title" : "Identify success factors to best manage your worklife",
+              "subsection" : "Success factors to best manage your work life include: ",
+              "list" : [
+                {
+                  "id" : 1, 
+                  "title" : "Meet commitments with every assignment or meeting"
+                },
+                {
+                  "id" : 2,
+                  "title" : "Approach your manager with solutions, not problems"
+                },
+                {
+                  "id" : 3,
+                  "title" : "Be open-minded"
+                }
+              ]
+            },
+            {
+              "id" : "1.4.20",
+              "title" : "Identify ways in which a support customer analyst can initiate personal growth and development",
+              "subsection" : "A support center analyst can initiate personal growth and delveopment by: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Participating in professional development certification course and training"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Networking and collaborating with other support professionals via webinars, events, and conferences"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Joining and participating in industry groups and online support communities"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Sharing knowledge via white papers, articles, blogs, knowledge sharing sessions"
+                },
+                {
+                  "id" : 5,
+                  "point" : "Advocate for your personal goals and objectives, make management aware of career goals, aspirations, and development needs"
+                },
+                {
+                  "id" : 6,
+                  "point" : "Take initiative to volunteer and work on projects"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "UNIT 2: Strategy and Policy" : [
+        {
+          "id" : 2.1,
+          "title" : "Support Strategy",
+          "section" : [
+            {
+              "id" : "2.1.1",
+              "title" : "Define strategic",
+              "subsection" : "Strategic planning is an organized process (occurring at the management level) to define the organization descrited future state, the high-level goals, and objectives of the organization, and the sequence of actions and tasks to achieve them.",
+              "list" : []
+            },
+            {
+              "id" : "2.1.2",
+              "title" : "Define stratgey",
+              "subsection" : "A strategy is documented plan of action to bring about a future state, such as the organization's goals and objectives.",
+              "list" : []
+            },
+            {
+              "id" : "2.1.3",
+              "title" : "Define vision statement",
+              "subsection" : "A vision statement is documented view of the future of the organization or business unit.  It reflects an \"ideal\" picture of what the organization wants to become as viewed by its stakeholders",
+              "list" : []
+            },
+            {
+              "id" : "2.1.4",
+              "title" : "Identify the purpose of a vision statement",
+              "subsection" : "The purpose of a vision statement is to: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point"  : "Inspire pride, commitment, and sense of belonging"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Stretch the capabilities and the self image of organization"
+                }
+              ]
+            },
+            {
+              "id" : "2.1.5",
+              "title" : "Define a mission statement",
+              "subsection" : "A mission statement is a formal, short written statement about the stategic purpose of an organization or business unit.  The mission statement should guide the actions of the organization, communicate its overall purpose, provide a sense of direction, and guide decision-making",
+              "list" : []
+            },
+            {
+              "id" : "2.1.6",
+              "title" : "Identify the purpose of a mission statement",
+              "subsection" : "The purpose of a mission statement is to",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Define the organization's goal and reason for being (i.e., what you are doing and why you are doing it)"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Focus everyone on a common goal"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Inspire commitment"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Provide a sense of direction"
+                },
+                {
+                  "id" : 5,
+                  "point" : "Guide decision-making"
+                }
+              ]
+            },
+            {
+              "id" : "2.1.7",
+              "title" : "Define goals",
+              "subsection" : "Goals are the outcome an organization wants to achieve.  The desired endpoint in the support of your strategy.",
+              "list" : []
+            },
+            {
+              "id" : "2.1.8",
+              "title" : "Define objectives",
+              "subsection" : "Objectives are the milestones to measure progress towards achieving goals.",
+              "list" : []
+            },
+            {
+              "id" : "2.1.9",
+              "title" : "Explain the role of a service and support center",
+              "subsection" : "The role of a service support center is to provide advice, guidance, information, and when required, the restoration of normal services to its customers enabling them to achieve their business goals. <br><br> A service and support center:",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Serves as the single-point-of-contact (SPOC) for all stakeholders within the business."
+                },
+                {
+                  "id" : 2,
+                  "point" : "Focuses on getting customers back to work as quickly as possible after they have suffered an interruption (incident) or if they need something (request)"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Executes activies and tasks within the Request Fulfillment, Access Management, Knowledge Management, and Incident Management processes"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Communicate and collaborates with stakeholders to ensure that the service and support provided meets the cusotmer's needs according to the SLA; and improves the customer experience, thus increasing customer satisfaction"
+                }
+              ]
+            },
+            {
+              "id" : "2.1.10",
+              "title" : "Describe how the service and support center provides value to the organization",
+              "subsection" : "The service and support center provides value to the organization by: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Improving customer service satisfaction"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Increasing accessibility using single operational point of contact (SPOC)"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Providing a proactive approach to service and support"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Reducing proactive approach to service and support"
+                },
+                {
+                  "id" : 5,
+                  "point" : "Leveraging service and support resources and expertise to increase the productivity of all professionals across the business"
+                },
+                {
+                  "id" : 6,
+                  "point" : "Improving teamwork communication to better serve the needs of the business"
+                }
+              ]
+            },
+            {
+              "id" : "2.1.11",
+              "title" : "identify metrics that may demonstrate how the service and support center contributes to achieving business goals and objectives",
+              "subsection" : "Metrics that may demonstrate how desktop support services contribute to achieving buiness and support goals and objectives include: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Customer Satisfaction"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Quality Service Level Achievements"
+                },
+                {
+                  "id" : 3,
+                  "point" : "First Contact Resoultion (FCR)"
+                },
+                {
+                  "id" : 4,
+                  "point" : "First Level Resolution (FLR)"
+                },
+                {
+                  "id" : 5,
+                  "point" : "Business impact"
+                },
+                {
+                  "id" : 6,
+                  "point" : "Analyst Utliziation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id" : 2.2,
+          "title" : "Define policy",
+          "section" : [
+            {
+              "id" : "2.2.1",
+              "title" : " Define policy",
+              "subsection" : "Policies define what is or is not permitted within an organization.  A policy establishes expectations and limitations related to behavior.",
+              "list" : []
+            },
+            {
+              "id" : "2.2.2",
+              "title" : "Explain the purpose of organizational policies",
+              "subsection" : "Organizational policies: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Provide clear definitions of boundaries within which to work"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Define what is acceptable and unacceptable employee and cusotmer behavior"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Provide guidelines for dealing with inappropriate behavior"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Set customer expectations with defined polcies"
+                }
+              ]
+            },
+            {
+              "id" : "2.2.3",
+              "title" : "List the importance of adhering to organization policies",
+              "subsection" : "Adhering to organizational policies is important because it: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : " Encourages consistent behavior throughout the business and support oranization"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Provides a framwork for the delivery of consistent service and support"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Protects the support organization against legal action"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Helps protect the support organization and cusomters' proprietary inofmration and other assets"
+                }
+              ]
+            },
+            {
+              "id" : "2.2.4",
+              "title" : "Identify examples or oganizational policies",
+              "subsection" : "Policies define an organizations may include: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "It security policies"
+                },
+                {
+                  "id" : 2,
+                  "point": "Dress Code policies"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Personal Equipment Policies"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Work Behvior policies"
+                },
+                {
+                  "id" : 5,
+                  "point" : "Social Media policies"
+                },
+                {
+                  "id" : 4, 
+                  "point" : "Mobile Device Management policies"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
